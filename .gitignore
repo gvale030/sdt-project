@@ -1,0 +1,11 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore __pycache__ and other temp files
+__pycache__/
+*.pyc
+
+# Allow everything else
+!requirements.txt
+!app.py
+!.gitignore
