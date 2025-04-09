@@ -48,3 +48,5 @@ streamlit run app.py
 - Automatically loads vehicle dataset
 - Visualizes pricing trends with scatter and bar plots
 - Filters by model year, paint color, and condition
+
+Render app link: https://sdt-project-mfaw.onrender.com
